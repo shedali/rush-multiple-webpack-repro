@@ -1,0 +1,15 @@
+{
+  "name": "webpack5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"echo building",
+  },
+  "keywords": [],
+  "author": "Franz Sittampalam",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "5"
+  }
+}
