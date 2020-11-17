@@ -358,16 +358,6 @@ packages:
       '@babel/core': ^7.0.0-0
     resolution:
       integrity: sha512-MR7Ok+Af3OhNTCxYVjJZHS0t97ydnJZt/DbR4WISO39iDnhiD8XHrY12xuSJ90FFEGjir0Fzyyn7g/zY6hxbxA==
-  /@babel/plugin-proposal-numeric-separator/7.12.5_@babel+core@7.12.3:
-    dependencies:
-      '@babel/core': 7.12.3
-      '@babel/helper-plugin-utils': 7.10.4
-      '@babel/plugin-syntax-numeric-separator': 7.10.4_@babel+core@7.12.3
-    dev: false
-    peerDependencies:
-      '@babel/core': ^7.0.0-0
-    resolution:
-      integrity: sha512-UiAnkKuOrCyjZ3sYNHlRlfuZJbBHknMQ9VMwVeX97Ofwx7RpD6gS2HfqTCh8KNUQgcOm8IKt103oR4KIjh7Q8g==
   /@babel/plugin-proposal-object-rest-spread/7.12.1_@babel+core@7.12.3:
     dependencies:
       '@babel/core': 7.12.3
@@ -1015,7 +1005,7 @@ packages:
       '@babel/plugin-proposal-json-strings': 7.12.1_@babel+core@7.12.3
       '@babel/plugin-proposal-logical-assignment-operators': 7.12.1_@babel+core@7.12.3
       '@babel/plugin-proposal-nullish-coalescing-operator': 7.12.1_@babel+core@7.12.3
-      '@babel/plugin-proposal-numeric-separator': 7.12.5_@babel+core@7.12.3
+      '@babel/plugin-proposal-numeric-separator': 7.12.1_@babel+core@7.12.3
       '@babel/plugin-proposal-object-rest-spread': 7.12.1_@babel+core@7.12.3
       '@babel/plugin-proposal-optional-catch-binding': 7.12.1_@babel+core@7.12.3
       '@babel/plugin-proposal-optional-chaining': 7.12.1_@babel+core@7.12.3
@@ -9813,7 +9803,7 @@ packages:
       integrity: sha512-a54FxoJDIr27pgf7IgeQGxmqUNYrcV338lf/6gH456HZ/PhX+5BcwHXG9ajESmwe6WRO0tAzRUrRmNONWgkrew==
   /regenerator-transform/0.14.5:
     dependencies:
-      '@babel/runtime': 7.12.5
+      '@babel/runtime': 7.12.1
     dev: false
     resolution:
       integrity: sha512-eOf6vka5IO151Jfsw2NO9WpGX58W6wWmefK3I1zEGr0lOD0u8rwPaNqQL1aRxUaxLeKO3ArNh3VYg1KbaD+FFw==
@@ -12308,7 +12298,6 @@ packages:
       integrity: sha512-NOlY4V8GqUngzBvUiLFl6HxFzXWR0FmcMNXqHXRDaPiSnmlprY8TEyGoxFidPgvhbrpDMrufZGZHnHIczVsqQw==
       tarball: 'file:projects/webpack5.tgz'
     version: 0.0.0
-registry: ''
 specifiers:
   '@rush-temp/webpack4-storybook': 'file:./projects/webpack4-storybook.tgz'
   '@rush-temp/webpack5': 'file:./projects/webpack5.tgz'
