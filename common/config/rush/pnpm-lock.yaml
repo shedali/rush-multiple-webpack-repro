@@ -8,7 +8,6 @@ dependencies:
   react-dom: 17.0.1_react@17.0.1
   react-scripts: 4.0.0
   web-vitals: 0.2.4
-  webpack: 5.5.0_webpack@5.5.0
 lockfileVersion: 5.1
 packages:
   /@babel/code-frame/7.10.4:
@@ -11899,7 +11898,6 @@ packages:
       tapable: 2.1.1
       terser-webpack-plugin: 5.0.3_webpack@5.5.0
       watchpack: 2.0.1
-      webpack: 5.5.0_webpack@5.5.0
       webpack-sources: 2.2.0
     dev: false
     engines:
@@ -12294,10 +12292,11 @@ packages:
       react-dom: 17.0.1_react@17.0.1
       react-scripts: 4.0.0
       web-vitals: 0.2.4
+      webpack: 4.44.2_webpack@4.44.2
     dev: false
     name: '@rush-temp/webpack4-storybook'
     resolution:
-      integrity: sha512-KTBqGGZCvJRMRVsZJJDu0APO8nKiZ47O0Sa/CcXSQ5DTKBt3tYFj9F7l+zEJ4Qw2DQyEeDiciuZ6mTvZSCpMsg==
+      integrity: sha512-TVWLkHnduAfzgGZbdrr2tgJix+A+r7qu2JXT7Vtb9fvL6fTtVA3u0I76T/5hGURy7QB9kIzEeNKHHmZjj7TYtw==
       tarball: 'file:projects/webpack4-storybook.tgz'
     version: 0.0.0
   'file:projects/webpack5.tgz':
@@ -12320,4 +12319,3 @@ specifiers:
   react-dom: ^17.0.1
   react-scripts: 4.0.0
   web-vitals: ^0.2.4
-  webpack: '5'
